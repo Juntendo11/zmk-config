@@ -1,2 +1,2 @@
 config SHIELD_STENO
-    def bool $(shields_list_contains, steno)
+    def_bool $(shields_list_contains,steno)
