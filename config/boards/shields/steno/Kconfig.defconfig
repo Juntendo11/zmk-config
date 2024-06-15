@@ -3,4 +3,4 @@ if SHIELD_STENO
 config ZMK_KEYBOARD_NAME
     default "steno"
 
-end if
+endif
